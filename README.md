@@ -334,11 +334,3 @@ npm run lint      # Run ESLint
 [MIT](LICENSE)
 
 ---
-
-<div align="center">
-
-Built by [@vijaygupta18](https://github.com/vijaygupta18)
-
-**Star this repo if it helps your interview prep.**
-
-</div>
